@@ -63,7 +63,7 @@ Our project transcends mere analysis. It empowers us to provide actionable insig
 
 Following the insights presented in this project, we have several recommendations for the improvement of this study, its implications for businesses, and the guidance it offers to data scientists:
 
-<img src=reco_ds>
+<img src=reco_ds.png>
 
 1. To enhance the robustness of this study, we can broaden our scope by including additional social media platforms and exploring different hierarchical structures. This expansion allows for a more comprehensive understanding of community engagement and offer fresh perspectives on hierarchical structures for analysis.
 2. Beyond mere mentions, we can explore the sentiment of these messages. This approach will provide a more nuanced perspective, allowing us to gain clearer insights into how various communities perceive data science.
